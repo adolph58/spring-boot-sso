@@ -1,3 +1,7 @@
+## 简介
+本项目是陈韶健所著《深入实践 Spring Boot》第六章的内容  
+自己加了笔记和注释，请不要用于商业目的
+
 1. create Mysql DB: test
 2. run query: grant all privileges on test.* to 'root'@'localhost' identified by '12345678';
 3. mvn clean package
